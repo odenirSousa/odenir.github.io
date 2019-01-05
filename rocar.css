@@ -1,0 +1,57 @@
+.topo{
+position: absolute;
+top: 0%;
+width:100%;
+height:25%;
+background: #87CEFA;
+}
+
+.foto{
+position: absolute;
+top: 28%;
+left      : 23%;
+width:77%;
+height:90%;
+}
+
+.menu{
+position: absolute;
+top: 28%;
+height: 35%;
+width:15%;
+background: #87CEFA;
+}
+
+.login_senha{
+position: absolute;
+top: 68%;
+width:20%;
+height:20%;
+background: #87CEFA;
+}
+
+.cadastro{
+position: absolute;
+top: 91%;
+width:20%;
+height:20%;
+background: #87CEFA;
+}
+
+.rodape{
+position  : absolute;
+top       : 119%;
+width     : 100%;
+height    : 20%;
+background: #87CEFA;
+}
+
+
+
+
+
+
+
+
+
+
